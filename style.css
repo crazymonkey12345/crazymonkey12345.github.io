@@ -20,5 +20,6 @@ text-align: center;
   padding: 30px;
 }
 #content div:nth-child(even){
-  background: #304;
+  background: #203;
 }
+
