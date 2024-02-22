@@ -1,10 +1,24 @@
 h1 {
   font-size: 40px;
-  font-weght: bold;
+  font-weight: bold;
   color: violet;
 
 }
  body {
      background-color: aquamarine;
 
+} {
+color: #fff;
+text-align: center;
  }
+#content{
+  max-width: 960px;
+  margin: 0 auto;
+}
+#content div{
+  background: #3bbced;
+  padding: 30px;
+}
+#content div:nth-child(even){
+  background: #304;
+}
